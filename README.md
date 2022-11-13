@@ -7,7 +7,6 @@
 - Only 10 messages are displayed.
 - Firebase/Realtime Database .
 
-[click here to visit]()
 
 ## Screenshots
 
